@@ -1,6 +1,10 @@
 # session
 IMPORTANT!!!
-put the session.jar and database.txt in the same folder!!!! when downloading or shit will hti the fan, man
+how to get this puppy up and running, a short guide
+1. decompress session 
+2. navigate to session - > dist - > click session.jar
+3. she should open up a login page create a new account take note of the ID number at the top
+4. login and EZas that!!!
 
 a java application to log surf sessions with in built forecast fetching
 Waguan
