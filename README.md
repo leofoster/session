@@ -1,4 +1,7 @@
 # session
+IMPORTANT!!!
+put the session.jar and database.txt in the same folder!!!! when downloading or shit will hti the fan, man
+
 a java application to log surf sessions with in built forecast fetching
 Waguan
 So for my CS IB program i decided to combine two things that i love computer science and surfing 
