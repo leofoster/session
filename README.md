@@ -1,6 +1,7 @@
 # session
 IMPORTANT!!!
 how to get this puppy up and running, a short guide
+1a. download session.zip
 1. decompress session 
 2. navigate to session - > dist - > click session.jar
 3. she should open up a login page create a new account take note of the ID number at the top
